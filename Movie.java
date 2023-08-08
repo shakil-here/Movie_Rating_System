@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Movie {
-    static File file = new File("S:\\Java_all\\Movie_Rating System\\src\\movies.txt");
+    static File file = new File("movies.txt");
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
